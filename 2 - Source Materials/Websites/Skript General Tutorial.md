@@ -1,0 +1,1 @@
+[https://sovdee.gitbook.io/skript-tutorials](https://sovdee.gitbook.io/skript-tutorials "https://sovdee.gitbook.io/skript-tutorials") 

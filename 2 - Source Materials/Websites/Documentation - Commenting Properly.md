@@ -1,0 +1,1 @@
+https://docs.skunity.com/guides/guide/how-to-comment-properly.66
