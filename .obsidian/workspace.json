@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/HackTheBox/Module-Linux/Linux Fundamentals.md",
+                "file": "6 - Main Notes/DFIR/VERIFY.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux Fundamentals"
+              "title": "VERIFY"
+            }
+          },
+          {
+            "id": "9e6196dfb88c0461",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/DFIR/Scan Surprise.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Scan Surprise"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,15 +184,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3fbe6102ee8a8738",
+  "active": "9e6196dfb88c0461",
   "lastOpenFiles": [
-    "Linux Cheat Sheet.pdf",
+    "6 - Main Notes/DFIR/VERIFY.md",
+    "6 - Main Notes/DFIR/Scan Surprise.md",
+    "6 - Main Notes/DFIR/Ph4nt0m 1n7rud3r.md",
+    "6 - Main Notes/DFIR/Secret of the PolyGlot.md",
+    "6 - Main Notes/DFIR/RED.md",
+    "6 - Main Notes/HackTheBox/Module-Linux/File Descriptors and Redirections.md",
+    "6 - Main Notes/HackTheBox/Module-Linux/vimtutor.md",
     "6 - Main Notes/HackTheBox/Module-Linux/Linux Fundamentals.md",
+    "Linux Cheat Sheet.pdf",
     "6 - Main Notes/HackTheBox/Module-Linux",
     "6 - Main Notes/HackTheBox",
     "README.md",
     "6 - Main Notes/DFIR/DISKO 1.md",
-    "6 - Main Notes/DFIR/RED.md",
     "6 - Main Notes/Kali/GENERAL SKILLS.md",
     "1 - Rough Notes/Files and the File System.md",
     "6 - Main Notes/DFIR/Introduction to Digital Forensics.md",
@@ -197,11 +218,6 @@
     "6 - Main Notes/Kali/Applications/First Application.md",
     "6 - Main Notes/Commands.md",
     "6 - Main Notes/Kali/Ninjas.md",
-    "5 - Templates/Applications Note.md",
-    "5 - Templates/Full Note.md",
-    "6 - Main Notes/Kali/User Privileges.md",
-    "6 - Main Notes/Kali/Starting up Kali.md",
-    "6 - Main Notes/Kali/Setting up Kali in VirtualBox.md",
     "6 - Main Notes/Kali",
     "6 - Main Notes/Skripting",
     "6 - Main Notes",

@@ -65,6 +65,9 @@ Another useful tool to use is `apropos` which gives you the *shortened* descript
 
 #### Navigating nano text editor
 The interface is shown with Carets(`^`) and a character for example: `^G Get Help`. 
+
 The `^` means just `Ctrl +` whichever the character is next to it so `^G` means `Ctrl + G` will get you help
+
+the `M-` is a meta-key sequence that can accept `alt, cmd, esc` *twice* then the character associated with it.
 ### Reference
 [[Linux Cheat Sheet.pdf]]
