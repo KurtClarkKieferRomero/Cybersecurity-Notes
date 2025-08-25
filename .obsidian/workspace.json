@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/DFIR/picoCTF/flags are stepic.md",
+                "file": "6 - Main Notes/Over The Wire/GAMES ANSWERS!.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "flags are stepic"
+              "title": "GAMES ANSWERS!"
             }
           },
           {
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a50c21852c7a9de1",
@@ -174,6 +175,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -182,22 +184,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f1834772664a5ea3",
+  "active": "727aa176ab34e1a3",
   "lastOpenFiles": [
-    "6 - Main Notes/DFIR/picoCTF/DISKO 3.md",
-    "6 - Main Notes/DFIR/picoCTF/flags are stepic.md",
-    "6 - Main Notes/DFIR/picoCTF/RED.md",
-    "6 - Main Notes/DFIR/picoCTF/DISKO 2.md",
-    "6 - Main Notes/DFIR/Sleuth Kit.md",
-    "6 - Main Notes/DFIR/Introduction to Digital Forensics.md",
-    "6 - Main Notes/DFIR/picoCTF/Glory of the Garden.md",
+    "6 - Main Notes/Over The Wire/GAMES LEVEL GOAL.md",
+    "6 - Main Notes/Over The Wire/GAMES ANSWERS!.md",
     "6 - Main Notes/DFIR/picoCTF/Secret of the PolyGlot.md",
     "6 - Main Notes/DFIR/picoCTF/Scan Surprise.md",
     "6 - Main Notes/DFIR/picoCTF/VERIFY.md",
     "6 - Main Notes/DFIR/picoCTF/Ph4nt0m 1n7rud3r.md",
+    "6 - Main Notes/DFIR/picoCTF/RED.md",
+    "6 - Main Notes/DFIR/picoCTF/DISKO 1.md",
+    "6 - Main Notes/DFIR/Sleuth Kit.md",
+    "6 - Main Notes/Untitled.base",
+    "6 - Main Notes/DFIR/Introduction to Digital Forensics.md",
+    "6 - Main Notes/DFIR/picoCTF/Bitlocker1.md",
+    "6 - Main Notes/DFIR/picoCTF/Event-Viewing.md",
+    "6 - Main Notes/DFIR/picoCTF/DISKO 2.md",
+    "6 - Main Notes/DFIR/picoCTF/DISKO 3.md",
+    "6 - Main Notes/DFIR/picoCTF/flags are stepic.md",
+    "6 - Main Notes/DFIR/picoCTF/Glory of the Garden.md",
     "6 - Main Notes/DFIR/picoCTF/information.md",
     "6 - Main Notes/DFIR/picoCTF/CanYouSeeMe.md",
-    "6 - Main Notes/DFIR/picoCTF/DISKO 1.md",
     "6 - Main Notes/DFIR/picoCTF",
     "6 - Main Notes/HackTheBox/Module-Linux/File Descriptors and Redirections.md",
     "6 - Main Notes/HackTheBox/Module-Linux/vimtutor.md",
@@ -208,17 +215,11 @@
     "README.md",
     "6 - Main Notes/Kali/GENERAL SKILLS.md",
     "1 - Rough Notes/Files and the File System.md",
-    "6 - Main Notes/Over The Wire/GAMES LEVEL GOAL.md",
     "6 - Main Notes/DFIR",
-    "6 - Main Notes/Over The Wire/GAMES ANSWERS!.md",
     "6 - Main Notes/Kali/Install and Update Tools.md",
-    "6 - Main Notes/Kali Linux.md",
-    "6 - Main Notes/Kali/Applications/Second Application.md",
     "6 - Main Notes/Kali/Applications",
-    "6 - Main Notes/Kali/Starting and Stopping Kali Services.md",
     "6 - Main Notes/Over The Wire",
     "6 - Main Notes/Kali",
-    "6 - Main Notes/Skripting",
-    "6 - Main Notes"
+    "6 - Main Notes/Skripting"
   ]
 }

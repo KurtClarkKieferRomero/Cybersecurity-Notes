@@ -120,3 +120,59 @@ The level 8 password is: *dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc*
 	- When I tried to use the command `cat data.txt` it showed many entries of names that is associated with a string that looks like the password in the next level. That means I need to find a specific word and find the password associated with it
 	- I used the command `grep -i millionth data.txt` which means "find a specific word in data.txt with the word `millionth` and IGNORE case sensitive"
 	- Before this I used the command `grep --help` which helps me find the use of grep and how can I use it.
+## LEVEL 8 -> 9
+****
+The level 9 password is: *4CKMh1JI91bUIZZPXDqGanal4xvAg0JM*
+**Steps**
+	- I tried using `grep` to the file but I don't know how can I use it properly
+	- I check other commands given to me by the page and it has `sort and uniq` which intrigues me to use it
+	- I used `man sort` and `man uniq` to check what it do
+	- After finding out the proper command is `sort data.txt | uniq -u` which tells me that sort the passwords inside the `data.txt` file and find the only one occurrence of a password with the `-u` options
+## LEVEL 9 -> 10
+****
+The level 10 password: *FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey*
+**Steps**
+	- I tried using `grep` but the file only outputs a binary match meaning its just a bunch of gibberish without using other command
+	- After reading the Level goal, I tried using `grep` again with `grep -oE "\="` which means find an exact occurrence of an `=` sign but still it only outputs `binary match found`
+	- Using what the level goal said and commands that need to be used to solve, I then used `strings` which provides me with random things but after scrolling up I found the password which really occurred with many `=======`
+## LEVEL 10 -> 11
+****
+The level 10 password: *dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr*
+**Steps**
+	 - After using `ls` It is the same `data.txt` then by the level goal I need to use `base64` command which I did
+	 - I used the command `base64 -d data.txt` then it outputs the password
+## LEVEL 11 -> 12
+****
+The level 10 password: *FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey*
+**Steps**
+	
+## LEVEL 12 -> 13
+****
+The level 10 password: *FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey*
+**Steps**
+	
+## LEVEL 13 -> 14
+****
+The level 10 password: *FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey*
+**Steps**
+	
+## LEVEL 14 -> 15
+****
+The level 10 password: *FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey*
+**Steps**
+	
+## LEVEL 15 -> 16
+****
+The level 10 password: *FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey*
+**Steps**
+	
+## LEVEL 16 -> 17
+****
+The level 10 password: *FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey*
+**Steps**
+	
+## LEVEL 17 -> 18
+****
+The level 10 password: *FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey*
+**Steps**
+	

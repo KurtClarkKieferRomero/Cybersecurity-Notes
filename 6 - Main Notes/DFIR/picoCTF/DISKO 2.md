@@ -4,7 +4,7 @@
 Same with DISKO1 which is given a disk image in `.dd` format, find the flag but this time its not already solvable using strings
 
 ### Terminal:
-Again I used autopsy
+Again I used autopsy then I specifically used
 
 #### Note
 
